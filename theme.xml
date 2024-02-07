@@ -185,6 +185,7 @@ Author: SMD © 2024
       <selectedColor>000000</selectedColor>
       <primaryColor>ffffff</primaryColor>
       <secondaryColor>ffffff</secondaryColor>
+      <scrollSound>./_inc/sounds/scrollgames.wav</scrollSound>
       <fontPath>./assets/SEA.ttf</fontPath>
       <fontSize>0.04</fontSize>
       <pos>0.029 0.180</pos>
