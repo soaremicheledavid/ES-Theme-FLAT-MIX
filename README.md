@@ -15,7 +15,7 @@ Its a flat design, simple theme, lightweight, made for handhelds with 4/3 screen
 
 # Screenshots :
 
-![FIRST](https://github.com/soaremicheledavid/ES-Theme-FLAT-MIX/assets/157101299/584062ff-6882-4e38-bdbe-51913df1a881)
+![FIRST2](https://github.com/soaremicheledavid/ES-Theme-FLAT-MIX/assets/157101299/0c7e1c10-cf17-4374-ac38-e433bac4b937)
 
 
 ![SECOND](https://github.com/soaremicheledavid/ES-Theme-FLAT-MIX/assets/157101299/0c841945-9c2d-4faa-a56a-278ac94e709d)
