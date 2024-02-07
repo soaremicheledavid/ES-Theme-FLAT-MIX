@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Theme: FLAT-MIX
+Author: SMD © 2024
+-->
+  </view>
+  <subset name="background">
+    <include name="mix1">./assets/MIX1.xml</include>
+    <include name="mix2">./assets/MIX2.xml</include>
+    <include name="mix3">./assets/MIX3.xml</include>
+    <include name="mix4">./assets/MIX4.xml</include>
+    <include name="mix5">./assets/MIX5.xml</include>
+    <include name="mix6">./assets/MIX6.xml</include>
+    <include name="mix7">./assets/MIX7.xml</include>
+  </subset>
+</theme>
+
+SMD © 2024
