@@ -227,20 +227,20 @@ Author: SMD © 2024
       <glowSize>3</glowSize>
     </text>
     <imagegrid name="gamegrid">
-      <pos>0.030 0.190</pos>
-      <size>0.50 0.87</size>
+      <pos>0.030 0.185</pos>
+      <size>0.50 0.85</size>
       <margin>0.005 0.08</margin>
       <padding>0.03 0.05 0.03 0.04</padding>
-      <autoLayout>3 1</autoLayout>
-      <autoLayoutSelectedZoom>1.50</autoLayoutSelectedZoom>
+      <autoLayout>1 1</autoLayout>
+      <autoLayoutSelectedZoom>1.05</autoLayoutSelectedZoom>
       <animateSelection>false</animateSelection>
       <scrollDirection>horizontal</scrollDirection>
-      <centerSelection>true</centerSelection>
+      <centerSelection>false</centerSelection>
       <scrollLoop>true</scrollLoop>
     </imagegrid>
     <gridtile name="default">
       <backgroundColor>FFFFFF00</backgroundColor>
-      <backgroundCornerSize>9 9</backgroundCornerSize>
+      <backgroundCornerSize>9 8</backgroundCornerSize>
       <selectionMode>image</selectionMode>
       <padding>5 5</padding>
       <imageColor>FFFFFF90</imageColor>
@@ -251,11 +251,11 @@ Author: SMD © 2024
     </gridtile>
     <!--
     <text name="gridtile">
-      <pos>0.012 0.210</pos>
+      <pos>0.100 0.300</pos>
       <color>D0D0D0</color>
       <backgroundColor>00000000</backgroundColor>
       <fontSize>0.022</fontSize>
-      <alignment>center</alignment>
+      <alignment>left</alignment>
       <size>1 0.24</size>
     </text>
     <text name="gridtile_selected">
