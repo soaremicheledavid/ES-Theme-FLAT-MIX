@@ -24,6 +24,9 @@ Its a flat design, simple theme, lightweight, made for handhelds with 4/3 screen
 
 ![SECOND](https://github.com/soaremicheledavid/ES-Theme-FLAT-MIX/assets/157101299/0c841945-9c2d-4faa-a56a-278ac94e709d)
 
+## **Acknowledgments**
+* Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  They have been modified to be compatible with EmulationStation's current SVG support.
+
 
 # LICENSE CC BY-NC-SA 4.0 © SMD OFFICIAL
 
