@@ -11,7 +11,7 @@ Its a flat design, simple theme, lightweight, made for handhelds with 4/3 screen
 - GRID
   
 # Backgrounds :
-- 7 WALLPAPERS
+- 8 WALLPAPERS
 
 # Screenshots :
 
